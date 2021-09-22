@@ -1,0 +1,60 @@
+body {
+    background-image: url(https://www.xtrafondos.com/wallpapers/vertical/venom-logo-minimalista-3534.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.heading {
+    text-decoration: none;
+    font-family: 'Kaushan Script', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.youtube {
+    text-align: center;
+    opacity: 1;
+}
+
+iframe {
+    border-radius: 20px;
+}
+
+.nav-padding {
+    padding: 0;
+    opacity: 0.8;
+    position: sticky;
+    top: 0;
+}
+
+nav {
+    position: sticky;
+    top: 0;
+}
+
+main {
+    background-color: rgba(207, 195, 248, 0.8);
+    text-align: justify;
+    padding: 30px;
+}
+
+.text {
+    margin-top: 20px;
+}
+
+.article {
+    background-color: rgba(rgb(187, 172, 243), green, blue, 1);
+    display: block;
+    text-align: center;
+    margin: 0 10vw !important;
+    text-align: center;
+}
+
+.icon {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.gif {
+    width: 100%;
+    border-radius: 5px;
+}
