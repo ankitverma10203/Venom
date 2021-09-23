@@ -66,8 +66,8 @@ main {
         margin: 0 !important;
     }
 
-    iframe {
+    /* iframe {
         width: 85vw;
         height: calc(85vw * 7 / 16);
-    }
+    } */
 }
