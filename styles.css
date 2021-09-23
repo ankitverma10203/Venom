@@ -25,6 +25,7 @@ iframe {
     opacity: 0.8;
     position: sticky;
     top: 0;
+    margin: 0 10vw !important;
 }
 
 nav {
@@ -36,18 +37,14 @@ main {
     background-color: rgba(207, 195, 248, 0.8);
     text-align: justify;
     padding: 30px;
-}
-
-.text {
-    margin-top: 20px;
-}
-
-.article {
-    background-color: rgba(rgb(187, 172, 243), green, blue, 1);
     display: block;
     text-align: center;
     margin: 0 10vw !important;
     text-align: center;
+}
+
+.text {
+    margin-top: 20px;
 }
 
 .icon {
@@ -59,6 +56,31 @@ main {
 .gif {
     width: 100%;
     border-radius: 5px;
+}
+
+footer {
+    padding: 20px;
+    background-color: rgba(59, 59, 59, 0.8);
+    color: white;
+    text-align: center;
+    opacity: 0.8;
+    position: sticky;
+    top: 0;
+    margin: 0 10vw !important;
+}
+
+i {
+    margin: 0.4em;
+}
+
+.social-icon {
+    text-decoration: none;
+    color: white;
+}
+
+.social-icon:hover {
+    text-decoration: none;
+    color: gray;
 }
 
 @media screen and (max-width: 600px) {
